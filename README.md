@@ -21,3 +21,6 @@ The below table describes the avilabel hash algorithms and their uses check it o
 |sha512 | It produces a a 512-bit hash value.|
 |shake_128 | In the case of shake_128, it produces a variable-length output but is commonly used to generate hash values of 128 bits or more.|
 |shake_256 |It is designed for applications where a longer hash length is desired. It can be used to generate hash values of 256 bits or more.|
+
+
+🚀For more information you can check this link:https://docs.python.org/3/library/hashlib.html
