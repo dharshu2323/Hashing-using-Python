@@ -7,7 +7,7 @@ The below table describes the avilabel hash algorithms and their uses check it o
 
 |Algorithms|Functions|
 |:----------|:---------:|
-|[Blake2b](#blake2b) | A cryptographic hash function optimized for 64-bit platforms.|
+|blake2b | A cryptographic hash function optimized for 64-bit platforms.|
 |blake2s | Similar to blake2b, but optimized for 8- to 32-bit platforms.|
 |md5 | A widely used hash function producing a 128-bit hash value. |
 |sha1 |  Like MD5, it is considered insecure for cryptographic purposes due to vulnerabilities.|
@@ -25,4 +25,4 @@ The below table describes the avilabel hash algorithms and their uses check it o
 
 🚀For more information you can check this link:https://docs.python.org/3/library/hashlib.html
 
-<a name="blake2b"></a>blake2b uwshkqsujam,
+
